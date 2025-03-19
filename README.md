@@ -38,7 +38,7 @@ python download_jfk_pdfs.py
 
 The PDFs will be downloaded into a folder named jfk_pdfs in the same directory as the script.
 
-Use your favorite AI  to create summaries and then do analysis on the summaries.
+Use your favorite AI  to create summaries and then do analysis on the summaries. I used Notebook LM and included is a script `pdf_processing.py`  to prepare the pdfs for Notebook LM.
 
 ---
 
