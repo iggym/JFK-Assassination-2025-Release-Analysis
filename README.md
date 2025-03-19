@@ -1,6 +1,6 @@
-# JFK-Assassination-2025-Release
+# JFK Assassination 2025 Release Analysis
 
-[JFK Assassination](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy) Records - 2025 Documents Release files and the script to download all the files.
+[JFK Assassination](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy) Records - 2025 Documents Release files analysis and  the script to download all the files.
 
 ## Analysis Summary 
 
