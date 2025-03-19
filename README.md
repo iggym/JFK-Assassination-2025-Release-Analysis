@@ -8,6 +8,8 @@ The CIA’s detailed tracking of Oswald, combined with unclear affiliations (e.g
 
 The notes hint at a possible cover-up through omission and ambiguity—particularly regarding intelligence agencies’ knowledge of Oswald.
 
+---
+---
 
 ## Instructions How to Use:
 
